@@ -1,0 +1,6 @@
+{
+  "name": "Document Understanding for Retrieval: Layout, Tables and Reading Order",
+  "description": "AI-powered document understanding system reconstructing reading order, multi-column layouts, and tables for high-precision RAG and semantic retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
